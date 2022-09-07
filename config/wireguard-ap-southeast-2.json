@@ -4,7 +4,7 @@
     "ExternalSubnetIds": "subnet-123,subnet-345,subnet-456",
     "InternalSubnetIds": "subnet-778,subnet-890,subnet-012",
     "VpcId": "vpc-123",
-    "InstanceType": "t3.nano",
+    "InstanceType": "t3.micro",
     "InternalPeerIp": "172.16.1.2/32",
     "InternalServerIp": "172.16.1.1/32",
     "WireguardPort": "12345",
